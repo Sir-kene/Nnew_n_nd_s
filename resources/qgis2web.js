@@ -7,7 +7,7 @@ var map = new ol.Map({
         constrainResolution: true,
         maxZoom: 28,
         minZoom: 1,
-        extent: [257496.662124, 640898.501526, 296266.237740, 680732.340003],
+        //extent: [257496.662124, 640898.501526, 296266.237740, 680732.340003],
         projection: new ol.proj.Projection({
             code: 'EPSG:32632',
             //extent: [258048.187183, 646835.779366, 291252.720836, 674041.353455],
